@@ -1,0 +1,2 @@
+https://github.com/apktechqa/publicrepositary.git
+this is the test message for the repositary commnand
